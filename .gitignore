@@ -1,0 +1,14 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+secrets.json
+mysqlclient-1.4.6-cp38-cp38-win_amd64.whl
+mysqlclient-1.4.6-cp38-cp38-win32.whl
+myvenv
+
