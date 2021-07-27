@@ -15,4 +15,3 @@ class DoctorSerializer(serializers.ModelSerializer):
     class Meta:
         model=HospitalDoctor
         fields=("name","belong","major","education","career","link","hos_id","scholar")
-        #field=("name","belong","major","education","career","link","hos_id","scholar")
